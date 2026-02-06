@@ -1,8 +1,4 @@
-import java.util.ArrayList;
-importa java.util.Scanner;
 
-public class GerenciadorTarefas {
-    public static void main (String[] args) {
 
         ArrayList<String> tarefas = new ArrayList<>();
         Scanner leitor = new Scanner(System.in);
