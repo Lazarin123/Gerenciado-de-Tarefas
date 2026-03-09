@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-importa java.util.Scanner;
+import java.util.Scanner;
 
 public class GerenciadorTarefas {
     public static void main (String[] args) {
